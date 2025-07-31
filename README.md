@@ -29,14 +29,7 @@ This project showcases training a YOLOv8 object detection model on a **custom da
 
 ## 🖼️ Sample Results
 
-Results after training are shown below:
-
-<p align="center">
-  <img src="runs/detect/train2/confusion_matrix.png" width="500"/>
-  <img src="runs/detect/train2/results.png" width="500"/>
-  <img src="runs/detect/train2/val_batch0_pred.jpg" width="500"/>
-</p>
-
+Check the folder named Sample_Results.
 ---
 
 ## 📂 Project Structure

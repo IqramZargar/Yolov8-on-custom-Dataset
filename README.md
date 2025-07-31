@@ -29,7 +29,7 @@ This project showcases training a YOLOv8 object detection model on a **custom da
 
 ## 🖼️ Sample Results
 
-Check the folder named Sample_Results.
+Check the code file for Sample results.
 ---
 
 ## 📂 Project Structure
